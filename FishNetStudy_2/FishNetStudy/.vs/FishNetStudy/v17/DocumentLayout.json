@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\assets\\_mygame\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|solutionrelative:assets\\_mygame\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\assets\\_mygame\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|solutionrelative:assets\\_mygame\\scripts\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|f:\\git\\fishnetstudy\\fishnetstudy_2\\fishnetstudy\\assets\\_mygame\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0B31BA-F3C9-8AB2-5801-81BBE5F033CA}|Assembly-CSharp.csproj|solutionrelative:assets\\_mygame\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyGame\\Scripts\\HealthManager.cs",
+              "ToolTip": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\_MyGame\\Scripts\\HealthManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:54:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyGame\\Scripts\\BulletController.cs",
+              "ToolTip": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\BulletController.cs",
+              "RelativeToolTip": "Assets\\_MyGame\\Scripts\\BulletController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:14:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyGame\\Scripts\\PlayerController.cs",
+              "ToolTip": "F:\\git\\FishNetStudy\\FishNetStudy_2\\FishNetStudy\\Assets\\_MyGame\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_MyGame\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAywFgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:41:48.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
