@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F084423-993E-038E-C7FA-B354FD72D38C}|Assembly-CSharp.csproj|f:\\fishnetstudy\\fishnetstudy_4\\fishnetstudy\\client-side prediction\\assets\\_mygames\\prediction4rigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F084423-993E-038E-C7FA-B354FD72D38C}|Assembly-CSharp.csproj|solutionrelative:assets\\_mygames\\prediction4rigidbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F360B-7AED-AF62-5305-E721DF8602EB}|FishNet.Example.csproj|f:\\fishnetstudy\\fishnetstudy_4\\fishnetstudy\\client-side prediction\\assets\\fishnet\\example\\all\\prediction\\rigidbody\\scripts\\rigidbodyprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38F360B-7AED-AF62-5305-E721DF8602EB}|FishNet.Example.csproj|solutionrelative:assets\\fishnet\\example\\all\\prediction\\rigidbody\\scripts\\rigidbodyprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F360B-7AED-AF62-5305-E721DF8602EB}|FishNet.Example.csproj|F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\assets\\fishnet\\example\\all\\prediction\\transform\\scripts\\transformprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38F360B-7AED-AF62-5305-E721DF8602EB}|FishNet.Example.csproj|solutionrelative:assets\\fishnet\\example\\all\\prediction\\transform\\scripts\\transformprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F084423-993E-038E-C7FA-B354FD72D38C}|Assembly-CSharp.csproj|F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\assets\\_mygames\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F084423-993E-038E-C7FA-B354FD72D38C}|Assembly-CSharp.csproj|solutionrelative:assets\\_mygames\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAB9B4D-4DE3-2996-DBF7-35082854C75A}|FishNet.Runtime.csproj|F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\assets\\fishnet\\runtime\\object\\prediction\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAB9B4D-4DE3-2996-DBF7-35082854C75A}|FishNet.Runtime.csproj|solutionrelative:assets\\fishnet\\runtime\\object\\prediction\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prediction4Rigidbody.cs",
+              "DocumentMoniker": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\_MyGames\\Prediction4Rigidbody.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyGames\\Prediction4Rigidbody.cs",
+              "ToolTip": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\_MyGames\\Prediction4Rigidbody.cs",
+              "RelativeToolTip": "Assets\\_MyGames\\Prediction4Rigidbody.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAmwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:26:51.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RigidbodyPrediction.cs",
+              "DocumentMoniker": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Example\\All\\Prediction\\Rigidbody\\Scripts\\RigidbodyPrediction.cs",
+              "RelativeDocumentMoniker": "Assets\\FishNet\\Example\\All\\Prediction\\Rigidbody\\Scripts\\RigidbodyPrediction.cs",
+              "ToolTip": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Example\\All\\Prediction\\Rigidbody\\Scripts\\RigidbodyPrediction.cs",
+              "RelativeToolTip": "Assets\\FishNet\\Example\\All\\Prediction\\Rigidbody\\Scripts\\RigidbodyPrediction.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAABQwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:58:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransformPrediction.cs",
+              "DocumentMoniker": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Example\\All\\Prediction\\Transform\\Scripts\\TransformPrediction.cs",
+              "RelativeDocumentMoniker": "Assets\\FishNet\\Example\\All\\Prediction\\Transform\\Scripts\\TransformPrediction.cs",
+              "ToolTip": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Example\\All\\Prediction\\Transform\\Scripts\\TransformPrediction.cs",
+              "RelativeToolTip": "Assets\\FishNet\\Example\\All\\Prediction\\Transform\\Scripts\\TransformPrediction.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:09:09.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Runtime\\Object\\Prediction\\Attributes.cs",
+              "RelativeDocumentMoniker": "Assets\\FishNet\\Runtime\\Object\\Prediction\\Attributes.cs",
+              "ToolTip": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\FishNet\\Runtime\\Object\\Prediction\\Attributes.cs",
+              "RelativeToolTip": "Assets\\FishNet\\Runtime\\Object\\Prediction\\Attributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:27:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\_MyGames\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyGames\\PlayerMove.cs",
+              "ToolTip": "F:\\FishNetStudy\\FishNetStudy_4\\FishNetStudy\\Client-Side Prediction\\Assets\\_MyGames\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\_MyGames\\PlayerMove.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:29:02.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

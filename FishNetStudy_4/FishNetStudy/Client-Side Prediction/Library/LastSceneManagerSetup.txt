@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_MyGames/ClientPrediction_Rigidbody.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
