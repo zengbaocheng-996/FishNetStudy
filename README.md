@@ -27,24 +27,24 @@
 | Player顶部血条               |
 | 血条数值和死亡动画同步       |
 
-| FishNetStudy_3/Fishnet的Client-Side Prediction客户端预测 |
-| -------------------------------------------------------- |
-| 基本场景                                                 |
-| 客户端权威                                               |
-| 服务器权威                                               |
-| 弱网工具                                                 |
+| FishNetStudy_3/Fishnet Client-Side Prediction |
+| --------------------------------------------- |
+| 基本场景                                      |
+| 客户端权威                                    |
+| 服务器权威                                    |
+| 弱网工具                                      |
 
-| FishNetStudy_4/Fishnet的Client-Side Prediction客户端预测 |
-| -------------------------------------------------------- |
-| 官方例子TransformPrediction                              |
-| 工作流是怎样的                                           |
-| 数据结构                                                 |
-| 传递数据的两个方法                                       |
-| 获取数据的两个方法                                       |
-| 改用Rigidbody                                            |
-| 官方Rigidbody例子                                        |
-| 完成Rigidbody方式的客户端预测脚本                        |
-| 测试Rigidbody的客户端预测                                |
+| FishNetStudy_4/Fishnet Client-Side Prediction |
+| --------------------------------------------- |
+| 官方例子TransformPrediction                   |
+| 工作流是怎样的                                |
+| 数据结构                                      |
+| 传递数据的两个方法                            |
+| 获取数据的两个方法                            |
+| 改用Rigidbody                                 |
+| 官方Rigidbody例子                             |
+| 完成Rigidbody方式的客户端预测脚本             |
+| 测试Rigidbody的客户端预测                     |
 
 # NetworkTransform
 
