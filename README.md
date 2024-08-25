@@ -34,3 +34,15 @@
 | 服务器权威                                               |
 | 弱网工具                                                 |
 
+| FishNetStudy_4/Fishnet的Client-Side Prediction客户端预测 |
+| -------------------------------------------------------- |
+| 修复官方例子TransformPrediction                          |
+| 工作流是怎样的                                           |
+| 数据结构                                                 |
+| 传递数据的两个方法                                       |
+| 获取数据的两个方法                                       |
+| 改用Rigidbody                                            |
+| 修复官方Rigidbody例子                                    |
+| 完成Rigidbody方式的客户端预测脚本                        |
+| 测试Rigidbody的客户端预测                                |
+
