@@ -24,19 +24,19 @@ public class Prediction4NetworkTransform : NetworkBehaviour
     {
         if(base.IsOwner)
         {
-            Reconciliation(default, false);//µ÷ÕûÊı¾İ¡£°´ÕÕ·şÎñÆ÷¶Ë·µ»ØµÄÊı¾İµ÷Õû
-            CheckInput(out MoveData md);//µ±Ç°¿Í»§¶ËÊäÈëÊı¾İ
-            Move(md, false);//¿Í»§¶Ë°´ÕÕÊäÈëÒÆ¶¯²¢½«ÊäÈë´«µİ¸ø·şÎñÆ÷¶Ë
+            Reconciliation(default, false);//è°ƒæ•´æ•°æ®ã€‚æŒ‰ç…§æœåŠ¡å™¨ç«¯è¿”å›çš„æ•°æ®è°ƒæ•´
+            CheckInput(out MoveData md);//å½“å‰å®¢æˆ·ç«¯è¾“å…¥æ•°æ®
+            Move(md, false);//å®¢æˆ·ç«¯æŒ‰ç…§è¾“å…¥ç§»åŠ¨å¹¶å°†è¾“å…¥ä¼ é€’ç»™æœåŠ¡å™¨ç«¯
         }
         if (base.IsServer)
         {
-            Move(default, true);//ÒÆ¶¯·şÎñÆ÷¶Ë¶ÔÏó
-            ReconcileData rd = new ReconcileData(transform.position, transform.rotation);//»ñµÃ·şÎñÆ÷¶Ë¶ÔÏóÒÆ¶¯ºóµÄ¶ÔÏó
-            Reconciliation(rd, true);//½«·şÎñÆ÷¶Ë¶ÔÏóÒÆ¶¯ºóµÄÊı¾İ´«µİ¸ø¿Í»§¶Ë
+            Move(default, true);//ç§»åŠ¨æœåŠ¡å™¨ç«¯å¯¹è±¡
+            ReconcileData rd = new ReconcileData(transform.position, transform.rotation);//è·å¾—æœåŠ¡å™¨ç«¯å¯¹è±¡ç§»åŠ¨åçš„å¯¹è±¡
+            Reconciliation(rd, true);//å°†æœåŠ¡å™¨ç«¯å¯¹è±¡ç§»åŠ¨åçš„æ•°æ®ä¼ é€’ç»™å®¢æˆ·ç«¯
         }
     }
     /// <summary>
-    /// ¿Í»§¶ËÊäÈëÊı¾İ½á¹¹£¬´«Êä¸ø·şÎñ¶Ë
+    /// å®¢æˆ·ç«¯è¾“å…¥æ•°æ®ç»“æ„ï¼Œä¼ è¾“ç»™æœåŠ¡ç«¯
     /// </summary>
     public struct MoveData
     {
@@ -55,8 +55,8 @@ public class Prediction4NetworkTransform : NetworkBehaviour
     }
 
     /// <summary>
-    /// ·şÎñÆ÷¶ËÉú³ÉµÄÊı¾İ½á¹¹¡£ÊÇ·şÎñÆ÷¶Ë¶ÔÏóÔËĞĞºóµÄ½á¹ûÊı¾İ¡£
-    /// Êı¾İ½«»á´«µİ»Ø¿Í»§¶Ë¡£
+    /// æœåŠ¡å™¨ç«¯ç”Ÿæˆçš„æ•°æ®ç»“æ„ã€‚æ˜¯æœåŠ¡å™¨ç«¯å¯¹è±¡è¿è¡Œåçš„ç»“æœæ•°æ®ã€‚
+    /// æ•°æ®å°†ä¼šä¼ é€’å›å®¢æˆ·ç«¯ã€‚
     /// </summary>
     public struct ReconcileData
     {

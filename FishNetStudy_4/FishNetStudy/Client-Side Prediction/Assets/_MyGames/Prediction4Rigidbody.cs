@@ -54,21 +54,21 @@ public class Prediction4Rigidbody : NetworkBehaviour
     {
         if (base.IsOwner)
         {
-            Reconciliation(default, false);
-            CheckInput(out MoveData md);
-            Move(md, false);
+            Reconciliation(default, false);//调整数据。按照服务器端返回的数据调整
+            CheckInput(out MoveData md);//当前客户端输入数据
+            Move(md, false);//客户端按照输入移动并将输入传递给服务器端
         }
         if (base.IsServer)
         {
-            Move(default, true);
+            Move(default, true);//移动服务器端对象
         }
     }
     private void TimeManager_OnPostTick()
     {
         if (base.IsServer)
         {
-            ReconcileData rd = new ReconcileData(transform.position, transform.rotation, _rigidbody.velocity, _rigidbody.angularVelocity);
-            Reconciliation(rd, true);
+            ReconcileData rd = new ReconcileData(transform.position, transform.rotation, _rigidbody.velocity, _rigidbody.angularVelocity);//获得服务器端对象移动后的对象
+            Reconciliation(rd, true);//将服务器端对象移动后的数据传递给客户端
         }
     }
     [Replicate]
